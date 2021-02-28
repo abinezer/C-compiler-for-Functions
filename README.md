@@ -1,2 +1,2 @@
 # C-compiler-for-Functions
-This is our small version of a c compiler for functions
+This is our version of a c compiler for functions
